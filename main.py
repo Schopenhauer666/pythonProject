@@ -1,6 +1,6 @@
 
 def main(msg):
-    print(msg)
+       //adding a different comment
+        print(msg)
 
-
-main("Hello People")
+main("Hello people!")
